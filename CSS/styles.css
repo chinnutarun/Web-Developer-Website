@@ -1,0 +1,145 @@
+body {
+
+    margin: 0;
+    text-align: center;
+    width: 100%;
+}
+.middle-body {
+    background-image: url("https://images.freeimages.com/images/large-previews/a3b/website-rays-background-pattern-1637863.png");
+    background-image: linear-gradient(transparent 10%);
+}
+
+
+h1 {
+    margin: 0;
+    padding-top: 30px;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 100px;
+
+}
+h2 {
+    color: #66BFBF;
+    font-weight: normal;
+    font-size: 2.5rem;
+    padding-top: 0%;
+    text-align: center;
+}
+h3 {
+    color: #66BFBF;
+}
+
+
+#my-mount {
+    width: 40%;
+}
+.profile img {
+    margin-top: 50px;
+}
+.profile img {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 0 auto;
+}
+.profile p {
+    width: 40%;
+    margin: 0px auto 65px auto;
+}
+
+
+hr {
+    border: none;
+    border-top: 7px dotted #929c9c;
+    height: 2px;
+    width: 5%;
+    margin: 50px auto;
+}
+
+
+.top-container {
+    background-color: aliceblue;
+}
+.top-cloud {
+    text-align: right;
+    margin-right: 200px;
+    position: relative;
+    padding-top: 20px;
+}
+#top-id {
+    margin-top: 0;
+}
+
+
+.bot-cloud {
+    position: relative;
+    padding-right: 50%;
+}
+
+
+.skills {
+    text-align: left;
+    width: 50%;
+    margin: 60px auto 100px auto;
+}
+.skill-col div {
+    margin: 10px;
+    float: left;
+}
+.skills p {
+    line-height: 2;
+}
+.skill-row img {
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 10px;
+
+}
+.skill-col img {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-col h3 {
+    margin-top: 70px;
+}
+
+
+.btn {
+    background-color: #66BFBF;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.btn :hover {
+    color: antiquewhite;
+
+}
+
+
+.bottom-container {
+    background-color: rgb(89, 200, 200);
+    padding: 40px 40px 20px 40px;
+
+}
+.bottom-container a {
+
+    padding: 0px 50px;
+    border-radius: 5px;
+    color: #1a4b4d;
+    text-decoration: none;
+}
+.bottom-container p {
+    color: #EAF6F6;
+}
+
+
+.contact-me p {
+    margin-bottom: 40px;
+}
+.contact-me{
+    padding-bottom: 50px;
+}
